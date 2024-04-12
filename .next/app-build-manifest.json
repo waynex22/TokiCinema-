@@ -1,0 +1,138 @@
+{
+  "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-1c516d2871f7773e.js",
+      "static/chunks/fd9d1056-236283d5b1d59cf5.js",
+      "static/chunks/69-63b9edca5e16f96d.js",
+      "static/chunks/main-app-3ab09ed124b5406f.js",
+      "static/chunks/app/_not-found-3ea706985ad27d56.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-1c516d2871f7773e.js",
+      "static/chunks/fd9d1056-236283d5b1d59cf5.js",
+      "static/chunks/69-63b9edca5e16f96d.js",
+      "static/chunks/main-app-3ab09ed124b5406f.js",
+      "static/chunks/921-a6c8940160b6fd4d.js",
+      "static/chunks/425-db499cb98bf228b4.js",
+      "static/chunks/230-e4fcdd6748471302.js",
+      "static/css/6160f6b81b87d3d1.css",
+      "static/chunks/app/layout-27f40320360e1948.js"
+    ],
+    "/admin/dashboard/page": [
+      "static/chunks/webpack-1c516d2871f7773e.js",
+      "static/chunks/fd9d1056-236283d5b1d59cf5.js",
+      "static/chunks/69-63b9edca5e16f96d.js",
+      "static/chunks/main-app-3ab09ed124b5406f.js",
+      "static/chunks/app/admin/dashboard/page-91015f237ecce278.js"
+    ],
+    "/booking/payment/[ticket]/page": [
+      "static/chunks/webpack-1c516d2871f7773e.js",
+      "static/chunks/fd9d1056-236283d5b1d59cf5.js",
+      "static/chunks/69-63b9edca5e16f96d.js",
+      "static/chunks/main-app-3ab09ed124b5406f.js",
+      "static/chunks/921-a6c8940160b6fd4d.js",
+      "static/chunks/425-db499cb98bf228b4.js",
+      "static/chunks/230-e4fcdd6748471302.js",
+      "static/chunks/app/booking/payment/[ticket]/page-716a259c6b2a9be5.js"
+    ],
+    "/booking/payment/[ticket]/infopayment/page": [
+      "static/chunks/webpack-1c516d2871f7773e.js",
+      "static/chunks/fd9d1056-236283d5b1d59cf5.js",
+      "static/chunks/69-63b9edca5e16f96d.js",
+      "static/chunks/main-app-3ab09ed124b5406f.js",
+      "static/chunks/921-a6c8940160b6fd4d.js",
+      "static/chunks/425-db499cb98bf228b4.js",
+      "static/chunks/230-e4fcdd6748471302.js",
+      "static/chunks/app/booking/payment/[ticket]/infopayment/page-aa953afe57704c9d.js"
+    ],
+    "/booking/tickets/[site]/[showtime]/[index]/page": [
+      "static/chunks/webpack-1c516d2871f7773e.js",
+      "static/chunks/fd9d1056-236283d5b1d59cf5.js",
+      "static/chunks/69-63b9edca5e16f96d.js",
+      "static/chunks/main-app-3ab09ed124b5406f.js",
+      "static/chunks/921-a6c8940160b6fd4d.js",
+      "static/chunks/425-db499cb98bf228b4.js",
+      "static/chunks/230-e4fcdd6748471302.js",
+      "static/chunks/app/booking/tickets/[site]/[showtime]/[index]/page-db98c3139b57ea90.js"
+    ],
+    "/mytickets/[slug]/page": [
+      "static/chunks/webpack-1c516d2871f7773e.js",
+      "static/chunks/fd9d1056-236283d5b1d59cf5.js",
+      "static/chunks/69-63b9edca5e16f96d.js",
+      "static/chunks/main-app-3ab09ed124b5406f.js",
+      "static/chunks/921-a6c8940160b6fd4d.js",
+      "static/chunks/540-cf50cd104c3cd4bd.js",
+      "static/chunks/app/mytickets/[slug]/page-25bee233363b9a46.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-1c516d2871f7773e.js",
+      "static/chunks/fd9d1056-236283d5b1d59cf5.js",
+      "static/chunks/69-63b9edca5e16f96d.js",
+      "static/chunks/main-app-3ab09ed124b5406f.js",
+      "static/chunks/921-a6c8940160b6fd4d.js",
+      "static/chunks/425-db499cb98bf228b4.js",
+      "static/chunks/230-e4fcdd6748471302.js",
+      "static/chunks/app/page-f4bd38a41297c70a.js"
+    ],
+    "/mytickets/page": [
+      "static/chunks/webpack-1c516d2871f7773e.js",
+      "static/chunks/fd9d1056-236283d5b1d59cf5.js",
+      "static/chunks/69-63b9edca5e16f96d.js",
+      "static/chunks/main-app-3ab09ed124b5406f.js",
+      "static/chunks/921-a6c8940160b6fd4d.js",
+      "static/chunks/425-db499cb98bf228b4.js",
+      "static/chunks/app/mytickets/page-f11f5f02967d3cb1.js"
+    ],
+    "/showtime/[showtimeId]/page": [
+      "static/chunks/webpack-1c516d2871f7773e.js",
+      "static/chunks/fd9d1056-236283d5b1d59cf5.js",
+      "static/chunks/69-63b9edca5e16f96d.js",
+      "static/chunks/main-app-3ab09ed124b5406f.js",
+      "static/chunks/921-a6c8940160b6fd4d.js",
+      "static/chunks/425-db499cb98bf228b4.js",
+      "static/chunks/230-e4fcdd6748471302.js",
+      "static/chunks/app/showtime/[showtimeId]/page-c969a895ac51819a.js"
+    ],
+    "/showtime/[showtimeId]/loading": [
+      "static/chunks/webpack-1c516d2871f7773e.js",
+      "static/chunks/fd9d1056-236283d5b1d59cf5.js",
+      "static/chunks/69-63b9edca5e16f96d.js",
+      "static/chunks/main-app-3ab09ed124b5406f.js",
+      "static/chunks/app/showtime/[showtimeId]/loading-dbd0536c12e13974.js"
+    ],
+    "/movies/page": [
+      "static/chunks/webpack-1c516d2871f7773e.js",
+      "static/chunks/fd9d1056-236283d5b1d59cf5.js",
+      "static/chunks/69-63b9edca5e16f96d.js",
+      "static/chunks/main-app-3ab09ed124b5406f.js",
+      "static/chunks/921-a6c8940160b6fd4d.js",
+      "static/chunks/425-db499cb98bf228b4.js",
+      "static/chunks/230-e4fcdd6748471302.js",
+      "static/chunks/app/movies/page-ad184dec5053c006.js"
+    ],
+    "/movies/layout": [
+      "static/chunks/webpack-1c516d2871f7773e.js",
+      "static/chunks/fd9d1056-236283d5b1d59cf5.js",
+      "static/chunks/69-63b9edca5e16f96d.js",
+      "static/chunks/main-app-3ab09ed124b5406f.js",
+      "static/chunks/app/movies/layout-14f1d709123d9064.js"
+    ],
+    "/movies/[movieId]/loading": [
+      "static/chunks/webpack-1c516d2871f7773e.js",
+      "static/chunks/fd9d1056-236283d5b1d59cf5.js",
+      "static/chunks/69-63b9edca5e16f96d.js",
+      "static/chunks/main-app-3ab09ed124b5406f.js",
+      "static/chunks/app/movies/[movieId]/loading-1821d973bc92bcb5.js"
+    ],
+    "/movies/[movieId]/page": [
+      "static/chunks/webpack-1c516d2871f7773e.js",
+      "static/chunks/fd9d1056-236283d5b1d59cf5.js",
+      "static/chunks/69-63b9edca5e16f96d.js",
+      "static/chunks/main-app-3ab09ed124b5406f.js",
+      "static/chunks/921-a6c8940160b6fd4d.js",
+      "static/chunks/425-db499cb98bf228b4.js",
+      "static/chunks/230-e4fcdd6748471302.js",
+      "static/chunks/app/movies/[movieId]/page-6dd3508f8f26da4a.js"
+    ]
+  }
+}

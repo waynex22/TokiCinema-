@@ -1,0 +1,14 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/booking/payment/[ticket]/page": "app/booking/payment/[ticket]/page.js",
+  "/booking/payment/[ticket]/infopayment/page": "app/booking/payment/[ticket]/infopayment/page.js",
+  "/booking/tickets/[site]/[showtime]/[index]/page": "app/booking/tickets/[site]/[showtime]/[index]/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/mytickets/[slug]/page": "app/mytickets/[slug]/page.js",
+  "/page": "app/page.js",
+  "/mytickets/page": "app/mytickets/page.js",
+  "/showtime/[showtimeId]/page": "app/showtime/[showtimeId]/page.js",
+  "/movies/page": "app/movies/page.js",
+  "/movies/[movieId]/page": "app/movies/[movieId]/page.js"
+}
